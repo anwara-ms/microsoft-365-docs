@@ -83,7 +83,8 @@ In addition to the [required licenses and permissions](information-barriers.md#r
 
    2. When prompted, sign in using your work or school account for Office 365.
 
-   3. In the **Permissions requested** dialog box, review the information, and then choose **Accept**.
+   3. In the **Permissions requested** dialog box, review the information, and then choose **Accept**. The permissions reqested by the App is given below <add a screenshot>
+   
 
 When all the prerequisites are met, proceed to the next section.
 
